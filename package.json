@@ -1,6 +1,6 @@
 {
   "name": "indoor-air-quality-card",
-  "version": "0.8.1",
+  "version": "0.0.1",
   "type": "module",
   "description": "Indoor Air Quality Card for Home Assistant",
   "main": "dist/indoor-air-quality-card.js",
