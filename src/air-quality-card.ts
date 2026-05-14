@@ -24,10 +24,10 @@ console.info(
   documentationURL: 'https://github.com/LouiS22/indoor-air-quality-card',
 });
 
-@customElement('air-quality-card')
+@customElement('indoor-air-quality-card')
 export class AirQualityCard extends MonitorCardBase {
   static CARD_INFO: CardInfo = {
-    cardType: 'indooar-air-quality-card',
+    cardType: 'indoor-air-quality-card',
     cardName: 'Indoor Air Quality Card',
     cardDescription:
       'A Home Assistant card for monitoring indoor and outdoor air quality (CO2, PM2.5, VOC, humidity, etc.)',
