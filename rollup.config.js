@@ -6,9 +6,9 @@ import typescript from '@rollup/plugin-typescript';
 const BUILD_TIMESTAMP = new Date().toISOString().replace(/[:.T]/g, '-').substring(0, 16);
 
 export default {
-  input: 'src/air-quality-card.ts',
+  input: 'src/indoor-air-quality-card.ts',
   output: {
-    file: 'dist/air-quality-card.js',
+    file: 'dist/indoor-air-quality-card.js',
     format: 'es',
     inlineDynamicImports: true,
     sourcemap: false,
