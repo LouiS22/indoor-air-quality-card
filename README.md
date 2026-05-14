@@ -1,4 +1,4 @@
-# Air Quality Card
+# Indoor Air Quality Card
 
 [![Release][release-shield]][release-link] [![HACS][hacs-shield]][hacs-link] [![GitHub Activity][commits-shield]][commits-link]
 
@@ -206,26 +206,3 @@ sensors:
 12 languages supported: 🇬🇧 English, 🇫🇷 French, 🇩🇪 German, 🇪🇸 Spanish, 🇮🇹 Italian, 🇵🇹 Portuguese, 🇳🇱 Dutch, 🇵🇱 Polish, 🇨🇿 Czech, 🇸🇰 Slovak, 🇮🇱 Hebrew, 🇷🇺 Russian.
 
 ---
-
-## Support
-
-[![coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://bmc.link/wilsto)
-
-## Monitor Cards Family
-
-This card is part of the **monitor-cards** family — same rendering engine, same features, different presets:
-
-| Card | For | Sensors |
-|------|-----|---------|
-| [Pool Monitor Card](https://github.com/wilsto/pool-monitor-card) | Pool & spa owners | 21 presets |
-| [Aquarium Monitor Card](https://github.com/wilsto/aquarium-monitor-card) | Freshwater & saltwater aquarium keepers | 15 presets |
-| [Air Quality Card](https://github.com/wilsto/air-quality-card) | Homeowners concerned about indoor air quality | 12 presets ← *you are here* |
-| [Sensor Monitor Card](https://github.com/wilsto/sensor-monitor-card) | Home Assistant power users | unlimited (custom) |
-
-<!-- Badges -->
-[release-shield]: https://img.shields.io/github/v/release/wilsto/air-quality-card?style=flat-square
-[release-link]: https://github.com/wilsto/air-quality-card/releases/latest
-[hacs-shield]: https://img.shields.io/badge/HACS-Default-orange.svg?style=flat-square
-[hacs-link]: https://hacs.xyz/
-[commits-shield]: https://img.shields.io/github/commit-activity/y/wilsto/air-quality-card?style=flat-square
-[commits-link]: https://github.com/wilsto/air-quality-card/commits/main
